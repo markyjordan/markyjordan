@@ -19,20 +19,20 @@ the past lost permission.
 
 Marky
 ```
-## Active Threads
-- Pretending CI/CD is its own reward.
-- Redefining MVP every other commit.
-- Lying to myself that I'll stop once the website ships.
-
 ## Inner Loop
 - No inline logic. No unnecessary meetings. No middle managers.
 - If it needs a dashboard, it's probably too complex.
 - Ship like nobody's watching - because they aren't.
 
+## Active Threads
+- Pretending CI/CD is its own reward.
+- Redefining MVP every other commit.
+- Lying to myself that I'll stop once the website ships.
+
 ## Previous Commits
 - Shipped a few things. Others are in witness protection.
 - Built a dashboard once. Still recovering.
-- Formerly loved TypeScript. I've matured.
+- Formerly loved TypeScript. Now I've learned to love myself. 
 
 ## Babel, But I'll Make It Work
 - Swift, Python, JavaScript, Go, Rust - polygot by resume, imposter by runtime.
