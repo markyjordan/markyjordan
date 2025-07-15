@@ -1,15 +1,23 @@
 ## Incoming Transmission...
 ```
+Not chasing approval,
+or threading old tape.
 Not building a product,
-but a departure.
+but a quiet escape.
 
-It won't ask for attention,
-but it'll start responding.
+No tired prompts.
+No reach for what's gone.
+No spark that flickers,
+then fails to hold on.
 
-Built in silence.
-Trained to listen.
-And when it speaks,
-you'll realize everything else was just noise.
+Just presence.
+
+Built in silence,
+trained to listen.
+And when it spoke,
+the past lost permission. 
+
+Marky
 ```
 ## Active Threads
 - Pretending CI/CD is its own reward.
