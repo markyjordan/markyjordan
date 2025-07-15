@@ -22,7 +22,7 @@ you'll realize everything else was just noise.
 - Ship like nobody's watching... because they aren't.
 
 ## Previous Commits
-- Shipped a few things. Hid a few others.
+- Shipped a few things. Others are in witness protection.
 - Built a dashboard once. Still recovering.
 - Formerly loved TypeScript. I've matured.
 
