@@ -19,7 +19,16 @@ you'll realize everything else was just noise.
 ## Inner Loop
 - No inline logic. No unnecessary meetings. No middle managers.
 - If it needs a dashboard, it's probably too complex.
-- Ship like nobody's watching. Because they aren't.
+- Ship like nobody's watching... because they aren't.
+
+## Previous Commits
+- Shipped a few things. Hid a few others.
+- Built a dashboard once. Still recovering.
+- Formerly loved TypeScript. I've matured.
+
+## Babel, But I'll Make It Work
+- Swift, Python, JavaScript Go, Rust
+- Xcode, Nvim, Terminal tabs named final_final_foreal_this_time.sh
 
 ##
 > Private repo. Public consequences.
