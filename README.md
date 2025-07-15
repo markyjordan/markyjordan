@@ -13,7 +13,7 @@ you'll realize everything else was just noise.
 
 ## Currently
 - Pretending CI/CD is its own reward.
-- Redifining MVP every other commit.
+- Redefining MVP every other commit.
 - Lying to myself that I'll stop once the website ships.
 
 ## Principles
