@@ -19,7 +19,6 @@ you'll realize everything else was just noise.
 - No inline logic. No unnecessary meetings. No middle managers.
 - If it needs a dashboard, it's probably too complex.
 - Ship like nobody's watching. Because they aren't.
----
 
-<br>
+##
 > Private repo. Public consequences.
