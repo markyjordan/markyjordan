@@ -27,7 +27,7 @@ you'll realize everything else was just noise.
 - Formerly loved TypeScript. I've matured.
 
 ## Babel, But I'll Make It Work
-- Swift, Python, JavaScript Go, Rust
+- Swift, Python, JavaScript, Go, Rust
 - Xcode, Nvim, Terminal tabs named final_final_foreal_this_time.sh
 
 ##
