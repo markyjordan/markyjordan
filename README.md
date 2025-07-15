@@ -1,16 +1,24 @@
-### Hi there 👋
+```
+Not building a product,
+but a departure.
 
-<!--
-**markyjordan/markyjordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It won't ask for attention,
+but it'll start responding.
 
-Here are some ideas to get you started:
+Built in silence.
+Trained to listen.
+And when it speaks,
+you'll realize everything else was just noise.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Pretending CI/CD is its own reward.
+- Redifining MVP every other commit.
+- Lying to myself that I'll stop once the website ships.
+
+## Principles
+- No inline logic. No unnecessary meetings. No middle managers.
+- If it needs a dashboard, it's probably too complex.
+- Ship like nobody's watching. Because they aren't.
+
+> Private repo. Public consequences.
