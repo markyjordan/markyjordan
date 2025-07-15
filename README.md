@@ -35,7 +35,11 @@ Marky
 - Formerly loved TypeScript. I've matured.
 
 ## Babel, But I'll Make It Work
-- Swift, Python, JavaScript, Go, Rust
+- Swift, Python, JavaScript, Go, Rust; polygot by resume, imposter by runtime.
+- PostgreSQL, SQLite, Core Data; relational issues, but we're still together.
+- Tensorflow, Pytorch, Keras, scikit-learn; frying GPUs in the name of slightly better autocomplete.
+- Faiss, Qdrant; vector stores that forget what you just said.
+- AWS, GCP; if they don't invoice you for blinking, you're doing it wrong.
 - Xcode, Nvim, Terminal tabs named final_final_foreal_this_time.sh
 
 ##
